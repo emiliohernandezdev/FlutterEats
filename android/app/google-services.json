@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "403195387808",
+    "firebase_url": "https://storeappemiliohernandez.firebaseio.com",
+    "project_id": "storeappemiliohernandez",
+    "storage_bucket": "storeappemiliohernandez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403195387808:android:bfff41c52805f0ec19cec5",
+        "android_client_info": {
+          "package_name": "org.emiliohernandez.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403195387808-et4mpv8nhi5mddkpi8lf8acq8ajo5gbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6_FXMfRrImGEee3C2CCTQbk9Axosfu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403195387808-et4mpv8nhi5mddkpi8lf8acq8ajo5gbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403195387808-bik4nu05iv3a11uhpbo1feiposds7q5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.emiliohernandezgt.storeapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403195387808:android:828b858617a110d219cec5",
+        "android_client_info": {
+          "package_name": "org.storeapp.storeappfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403195387808-et4mpv8nhi5mddkpi8lf8acq8ajo5gbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6_FXMfRrImGEee3C2CCTQbk9Axosfu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403195387808-et4mpv8nhi5mddkpi8lf8acq8ajo5gbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403195387808-bik4nu05iv3a11uhpbo1feiposds7q5m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.emiliohernandezgt.storeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
