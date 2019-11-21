@@ -1,4 +1,4 @@
-package org.storeapp.storeappfire
+package org.storeapp.foodapp
 
 import android.os.Bundle
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:storeappfire/services/auth.dart';
-import 'package:storeappfire/views/home.dart';
-import 'package:storeappfire/views/login.dart';
+import 'package:foodapp/services/auth.dart';
+import 'package:foodapp/views/home.dart';
+import 'package:foodapp/views/login.dart';
 enum AuthStatus {
   NOT_DETERMINED,
   NOT_LOGGED_IN,

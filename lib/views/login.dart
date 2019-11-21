@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:storeappfire/services/auth.dart';
+import 'package:foodapp/services/auth.dart';
 
 
 class LoginSignup extends StatefulWidget {

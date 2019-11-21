@@ -46,7 +46,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:403195387808:android:828b858617a110d219cec5",
         "android_client_info": {
-          "package_name": "org.storeapp.storeappfire"
+          "package_name": "org.storeapp.foodapp"
         }
       },
       "oauth_client": [
